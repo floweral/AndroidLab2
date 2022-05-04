@@ -5,7 +5,7 @@
 
 主要是在建立工程的时候选择Basic Activity，并选择Kotlin语言，再使用Gradle进行系统构建。
 
-![项目框架视图](https://github.com/floweral/images/tree/lab2/p1项目架构视图.png)
+![项目框架视图](https://github.com/floweral/images/tree/lab2/p1项目框架视图.png)
 
 ## 二、实现FirstFragment页面
 
