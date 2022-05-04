@@ -5,13 +5,13 @@
 
 主要是在建立工程的时候选择Basic Activity，并选择Kotlin语言，再使用Gradle进行系统构建。
 
-![项目框架视图]()
+![项目框架视图](https://github.com/floweral/images/tree/lab2/p1项目架构视图.png)
 
 ## 二、实现FirstFragment页面
 
 ##### 1、向页面中添加按钮，设置相应的约束以及布局
 
-![按钮视图]()
+![按钮视图](https://github.com/floweral/images/tree/lab2/p2按钮视图.png)
 
 ##### 2、更改组件文本，修改Next按钮
 
@@ -83,13 +83,13 @@
 
 运行结果如下：
 
-![第一个页面运行结果]()
+![第一个页面运行结果](https://github.com/floweral/images/tree/lab2/p3第一个页面运行结果.png)
 
 ##### 4、设置代码自动补全
 
-![代码自动补全1]()
+![代码自动补全1](https://github.com/floweral/images/tree/lab2/p4代码自动补全1.png)
 
-![代码自动补全2]()
+![代码自动补全2](https://github.com/floweral/images/tree/lab2/p5代码自动补全2.png)
 
 ##### 5、TOAST按钮添加一个toast消息
 
@@ -232,7 +232,7 @@ class FirstFragment : Fragment() {
 
 ##### 4、检查导航图（跳转关系）
 
-![导航图]()
+![导航图](https://github.com/floweral/images/tree/lab2/p6导航图.png)
 
 ##### 5、启用SageArgs（页面间传值）
 
@@ -255,7 +255,7 @@ class FirstFragment : Fragment() {
 
 在SecondFragment页面添加页面传值参数
 
-![页面传值参数]()
+![页面传值参数](https://github.com/floweral/images/tree/lab2/p7传值参数设置.png)
 
 ##### 7、设置发送的数据的代码
 
@@ -321,4 +321,4 @@ class SecondFragment : Fragment() {
 }
 ```
 
-![页面二运行结果]()
+![页面二运行结果](https://github.com/floweral/images/tree/lab2/p2页面二运行结果.png)
